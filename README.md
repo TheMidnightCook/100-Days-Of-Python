@@ -1,3 +1,5 @@
+![](readme.gif)
+
 # 100-Days-Of-Python 🐍
 
 I enrolled in the "100 Days of Code: The Complete Python Pro Bootcamp for 2022" course from Udemy.
