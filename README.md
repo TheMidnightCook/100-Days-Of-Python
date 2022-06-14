@@ -1,4 +1,5 @@
-![](readme.gif)
+![readme](https://user-images.githubusercontent.com/20115226/173669664-0f499ad5-1424-40bb-b7ce-1577a864e355.gif)
+
 
 # 100-Days-Of-Python 🐍
 
