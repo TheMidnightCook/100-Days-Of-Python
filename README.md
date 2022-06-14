@@ -1,4 +1,4 @@
-![readme](https://user-images.githubusercontent.com/20115226/173669664-0f499ad5-1424-40bb-b7ce-1577a864e355.gif)
+![coding](https://user-images.githubusercontent.com/20115226/173669764-35c1c641-7502-487d-a597-1ec794277b7e.gif)
 
 
 # 100-Days-Of-Python 🐍
