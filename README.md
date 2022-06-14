@@ -11,3 +11,6 @@ Going through the material, I will use this repo to journal my progress and all 
 100 Days 100 projects: Let's get it  💪🏾 
 
 [The course for reference](https://cisco.udemy.com/course/100-days-of-code/)
+
+
+[![Run on Repl.it](https://repl.it/badge/github/TheMidnightCook/100-Days-Of-Python)](https://repl.it/github/TheMidnightCook/100-Days-Of-Python)
