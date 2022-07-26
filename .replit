@@ -1,2 +1,5 @@
 language = "python"
 run = ""
+
+[nix]
+channel = "stable-22_05"
